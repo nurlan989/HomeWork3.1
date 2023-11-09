@@ -1,0 +1,3 @@
+﻿  OperationOnDynamicArray.cpp
+C:\С++Обучение\HomeWork3opt1\HomeWork3opt1\OperationOnDynamicArray.cpp(16,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HomeWork3opt1.vcxproj -> C:\С++Обучение\HomeWork3opt1\ARM64\Debug\HomeWork3opt1.exe
